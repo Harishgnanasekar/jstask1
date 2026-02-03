@@ -204,11 +204,9 @@ const college = "ABC Engineering College";
 console.log(city, score, college);
 ```
 
----
 
-## End of Assignment
 
-```
+
 
 
 
